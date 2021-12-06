@@ -1,0 +1,7 @@
+import caminos.*
+
+program camino {
+
+	mapa.iniciar()
+	
+}
